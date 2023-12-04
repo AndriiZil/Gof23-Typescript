@@ -1,0 +1,16 @@
+{
+  "name": "gof23-Typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AndriiZil/Gof23-Typescript.git",
+  "author": "Andrii Zilnyk <andrii.zilnyk@intellias.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}

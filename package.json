@@ -6,11 +6,11 @@
   "author": "Andrii Zilnyk <andrii.zilnyk@intellias.com>",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon"
+    "start:dev": "nodemon"
   },
   "devDependencies": {
-    "nodemon": "^3.0.2",
-    "ts-node": "^10.9.1",
-    "typescript": "^5.3.2"
+    "nodemon": "3.0.2",
+    "ts-node": "10.9.1",
+    "typescript": "5.3.2"
   }
 }

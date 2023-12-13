@@ -4,5 +4,5 @@
     ".env"
   ],
   "ext": ".ts",
-  "exec": "ts-node ./01_creational/02_Builder.ts"
+  "exec": "ts-node ./index.ts"
 }
